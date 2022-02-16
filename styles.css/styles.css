@@ -1,0 +1,36 @@
+.background{
+    background-color: gray;
+
+}
+
+.background2{
+   
+    background-color: lightgray;
+  
+}
+
+.background3{
+    
+    background-color: white;
+    text-align: center;
+    
+  
+}
+
+.background4{
+    
+    background-color: white;
+    text-align: center;
+    
+  
+}
+
+#boton{
+    background-color: gainsboro;
+    text-align: center;
+
+}
+
+#boton:hover{
+    font-size: larger;
+}
